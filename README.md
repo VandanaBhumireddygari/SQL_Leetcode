@@ -32,8 +32,8 @@ Welcome to my SQL LeetCode journey! This repository documents my 50-day challeng
 
 | Day | Date | Problem | Difficulty | Concepts | Status |
 |-----|------|---------|------------|----------|--------|
-| 01 | 2025-03-08 | Recyclable and Low Fat Products | Easy | SELECT | ✅ |
-| 02 | 2025-03-08 | Find Customer Referee | Easy | SELECT | ✅ |
+| 01 | 2025-11-22 | Recyclable and Low Fat Products | Easy | SELECT | ✅ |
+| 02 | 2025-11-22 | Find Customer Referee | Easy | SELECT | ✅ |
 
 ---
 
