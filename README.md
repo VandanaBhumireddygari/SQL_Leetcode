@@ -86,6 +86,24 @@ sql_leetcode/
 
 ---
 
+
+## 📚 Useful Resources
+
+- [LeetCode SQL Problems](https://leetcode.com/problemset/database/)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
+- [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+---
+
+## 💬 Connect With Me
+
+- **GitHub:** [@VandanaBhumireddygari](https://github.com/VandanaBhumireddygari)
+- **LeetCode:** [Your LeetCode Profile](https://leetcode.com)
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com)
+
+---
+
 ## 💬 Connect & Discuss
 
 Have suggestions or alternative solutions? Feel free to open an issue or submit a pull request! Let's learn and grow together in our SQL journey! 💪
