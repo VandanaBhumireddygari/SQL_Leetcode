@@ -1,6 +1,16 @@
 # 💫 SQL LeetCode Challenge
 
+
+![Progress](https://img.shields.io/badge/Progress-2%2F50-blue?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20%7C%20Medium%20%7C%20Hard-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025%2F03%2F08-orange?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-9cf?style=for-the-badge)
+
+Welcome to my SQL mastery journey!
+
 Welcome to my SQL mastery journey! This repository documents my 50-day challenge to solve and master SQL problems through LeetCode. Each solution is carefully crafted with detailed explanations and performance analysis.
+
 
 ---
 
