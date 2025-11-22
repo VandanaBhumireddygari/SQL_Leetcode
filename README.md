@@ -21,8 +21,8 @@ This is a comprehensive collection of SQL solutions where I tackle LeetCode prob
 
 | Day | Date | Problem | Difficulty | Concepts | Status |
 |-----|------|---------|------------|----------|--------|
-| 01 | 2025-03-08 | Recyclable and Low Fat Products | Easy | SELECT | ✅ |
-| 02 | 2025-03-08 | Find Customer Referee | Easy | SELECT | ✅ |
+| 01 | 2025-11-22 | Recyclable and Low Fat Products | Easy | SELECT | ✅ |
+| 02 | 2025-11-22 | Find Customer Referee | Easy | SELECT | ✅ |
 
 *More solutions being added regularly as I progress through the challenge!*
 
@@ -55,16 +55,7 @@ sql_leetcode/
 │   ├── day_01_recyclable_products.sql
 │   ├── day_02_customer_referee.sql
 │   └── ...
-├── notes/                             # SQL concepts and techniques
-│   ├── joins.md
-│   ├── window_functions.md
-│   ├── aggregation.md
-│   ├── subqueries.md
-│   └── optimization.md
-└── resources/                         # Helpful references and links
-    ├── sql_cheatsheet.md
-    └── optimization_tips.md
-```
+
 
 ---
 
@@ -110,22 +101,6 @@ Through this 50-day challenge, I aim to:
    cd SQL_Leetcode
    ```
 
-2. **Explore a solution**
-   - Open any `.sql` file to see the problem and solution
-   - Read the comments to understand the approach
-
-3. **Learn a concept**
-   - Check the `notes/` folder for detailed explanations
-   - Use `resources/` for additional references
-
----
-
-## 📈 Statistics
-
-- **Total Problems:** Progressing toward 50
-- **Concepts Mastered:** 10+
-- **Difficulty Levels:** Easy → Medium → Hard
-- **Current Streak:** 🔥 Active
 
 ---
 
