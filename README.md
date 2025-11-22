@@ -7,6 +7,10 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20%7C%20Medium%20%7C%20Hard-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+
+
+
 ![Language](https://img.shields.io/badge/Language-SQL-336791?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-Performance-9cf?style=for-the-badge)
 
