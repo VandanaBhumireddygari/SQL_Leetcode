@@ -46,19 +46,6 @@ This journey covers essential and advanced SQL topics:
 
 ---
 
-## 📁 Repository Structure
-
-```
-sql_leetcode/
-├── README.md                          # This file
-├── solutions/                         # SQL problem solutions
-│   ├── day_01_recyclable_products.sql
-│   ├── day_02_customer_referee.sql
-│   └── ...
-
-
----
-
 ## 🌟 Learning Goals
 
 Through this 50-day challenge, I aim to:
