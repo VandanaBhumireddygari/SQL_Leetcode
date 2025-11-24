@@ -1,6 +1,6 @@
 # 💫 SQL LeetCode Challenge 💫
 
-![Progress](https://img.shields.io/badge/Progress-10%2F50-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-20%2F50-blue?style=for-the-badge)
 
 
 
